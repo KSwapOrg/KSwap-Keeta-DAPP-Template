@@ -197,11 +197,13 @@ Check the `examples/` directory for:
 ## License
 
 Business Source License 1.1 (BSL)
-- Non-commercial use permitted
-- Use on Keeta Network permitted
-- Converts to MIT after 2 years
 
-See LICENSE file for details.
+1. **Effective Date**: 2025-09-25
+2. **Change Date**: 2027-09-25 (converts to MIT after 2 years)
+3. **Change License**: MIT
+4. **Additional Use Grant**: Non-commercial use and any use on the Keeta Network is permitted. Production/commercial use outside the Keeta Network requires a commercial license from KSwap Organization.
+
+See LICENSE file for complete details.
 
 ## Support
 
